@@ -179,7 +179,3 @@ The project can be simulated using **Tinkercad Circuits** with the Arduino Uno, 
 The prototype successfully demonstrates automatic irrigation based on soil moisture. By supplying water only when required, the system helps conserve water, reduces manual effort, and promotes sustainable farming practices.
 
 ---
-
-## 📄 License
-
-This project is intended for educational and learning purposes. Feel free to modify and improve it for your own academic or personal projects.
